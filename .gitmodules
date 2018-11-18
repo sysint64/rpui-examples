@@ -1,0 +1,3 @@
+[submodule "rpui"]
+	path = rpui
+	url = git@github.com:sysint64/RPUI.git

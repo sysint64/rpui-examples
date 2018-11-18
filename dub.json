@@ -1,0 +1,15 @@
+{
+    "name": "rpui-examples",
+    "authors": [
+	"Andrey Kabylin"
+    ],
+    "dependencies": {
+        ":rpui": "*"
+    },
+    "description": "RPUI Examples",
+    "copyright": "Copyright © 2018, Andrey Kabylin",
+    "license": "MIT",
+    "subPackages": [
+        "./rpui/"
+    ]
+}
